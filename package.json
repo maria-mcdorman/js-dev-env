@@ -15,6 +15,10 @@
 	"dependencies": {
 		"whatwg-fetch": "1.0.0"
 	},
+	"compilerOptions": {
+		"target": "es6",
+		"module": "commonjs"
+  },
 	"devDependencies": {
 		"babel-cli": "6.16.0",
 		"babel-core": "6.17.0",
